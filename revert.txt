@@ -1,8 +1,6 @@
 "this is revert file"
 <<<<<<< HEAD
 "this is firt change"
-"this isvafter revert file"
-
 
 =======
 >>>>>>> parent of a69ae6f (first change to revert.txt)
